@@ -7,6 +7,7 @@ import App from './App'
 import VueResource from 'vue-resource'
 import 'mint-ui/lib/style.css'
 import 'element-ui/lib/theme-chalk/index.css';
+import animate from 'animate.css'
 
 
 Vue.use(VueResource)
